@@ -128,9 +128,8 @@ Section:NewButton("Anti AFK Trasperency", "Makes you look legit when auto clicki
    wait(1)
    vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 end)
-end)
 
-rconsoleprint(dupestarting ETA 10-20 M)
+
 
 local Tab = Window:NewTab("Credits")
 local Section = Tab:NewSection("Script made by eT#0001")
